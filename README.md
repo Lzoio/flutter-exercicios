@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Referência: https://medium.com/@AlexCodeX/flutter-vs-dart-understanding-the-duo-powering-cross-platform-apps-298dd051abe6</p>
+<p align="left">[Referência] (https://medium.com/@AlexCodeX/flutter-vs-dart-understanding-the-duo-powering-cross-platform-apps-298dd051abe6)</p>
 
 ###
 
