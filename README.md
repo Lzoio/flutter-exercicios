@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=Dart%20e%20Flutter&fontSize=50&fontColor=FFFFFF&fontAlign=20&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=0737f5"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=Dart%20e%20Flutter&fontSize=50&fontColor=FFFFFF&fontAlign=20&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=0094e3"  />
 </div>
 
 ###
